@@ -52,7 +52,7 @@ git push -u origin main
    - **Name:** `blog-backend`
    - **Runtime:** Node
    - **Build Command:** `cd backend && npm install`
-   - **Start Command:** `cd backend && node server.js`
+   - **Start Command:** `cd backend && npm start`
    - **Instance Type:** Free
 
 5. Click **Add Environment Variable** 4 times:
